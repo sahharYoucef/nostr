@@ -12,7 +12,7 @@ dependencies:
   equatable: ^2.0.5
   convert: ^3.1.1
   crypto: ^3.0.2
-  http: ^0.13.5
+  http: ^1.0.0
   meta: ^1.8.0
   bech32: ^0.2.2
   hex: ^0.2.0
@@ -20,6 +20,5 @@ dependencies:
   bip39: ^1.0.6
 
 dev_dependencies:
-  dart_code_metrics: ^5.7.2
   lints:
   test:
